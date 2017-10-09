@@ -1,2 +1,1 @@
-hello
-ik ben een dier
+Dit is een aangepaste java klasse
